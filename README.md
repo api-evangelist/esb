@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ESB ecars is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://esb.ie/
+ESB ecars is an Irish energy company focused on delivering sustainable electricity and smart energy solutions. It operates a diversified portfolio including renewable generation, telecoms infrastructure, and smart‑energy services for residential and commercial customers. The company emphasizes innovation, community engagement, and a transition to low‑carbon energy sources, supporting Ireland’s climate goals while providing reliable power and digital services.
+
+**Areas:** Energy · Utilities · Ireland · Renewable · Telecom
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://esb.ie/)
+- [Documentation](https://esb.ie/who-we-are)
+- [Blog](https://esb.ie/news---insights/blog)
+- [Privacy policy](https://esb.ie/data-protection)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/esb/](https://apis.io/providers/esb/).
